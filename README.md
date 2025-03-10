@@ -1,16 +1,15 @@
-# 211_Homework_Crow1
-Introduction to the basics of using Crow
-
-Using the introduction to Crow we did in class and the fancy website portion, you must complete the following tutorial found: 
-https://crowcpp.org/master/getting_started/a_simple_webpage/
-This needs to use CMake, and have the proper directories to work.
-
-In addition, you must post a Panopto video of your program under the same assignment and do the following:
-Explain the setup of the directories
-explain the code in main.cpp. each line should have comments and needs to be explained
-explain the code in CMakeLists.txt. ea h line should have comments and needs to be explained.
-explain the code in templates. each line should have comments and needs to be explained.
-
-execute the program and show that the program runs on your local server. Run twice, showing this works with two different "names" at the end of the URL.
-
-submit the directories to github classroom and the panopto video on canvas.
+# 211_Homework_text_base_game_framework
+Create a text-based game Framework.​
+-The goal is to be able to create an application for a student exploring Hamm School of Engineering​ or any other non-violent areas
+-Must be able to choose locations that are nearby​
+    -Have at least 5 rooms​
+    -Have at least 3 objects per room that the user can interact with​
+-Must have a user exhaustion​
+  - Objects may impact the user exhaustion.​
+Requirement:
+Use the Design pattern State for this framework​
+Use the Framework Development Strategies to create this game and document the uses​. See course book for clear steps
+At the end you'll have​
+(50pts)Framework (50)​
+(50pts)Application (50)​
+(20pts)Map of classes to roles in UML
